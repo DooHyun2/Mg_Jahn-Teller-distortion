@@ -16,8 +16,10 @@ Strong Negative Correlation: High distortion (>0.6) acts as a penalty factor, si
 Impact of dopant amount on voltage
 
 positive correlation: Increasing the dopant amount generally improves the voltage.
+
 Superiority of Cobalt: Red dots (Co) consistently appear at the top, confirming 
 that Cobalt is the most efficient element for maximizing voltage.
+
 Minimum Requirement: To achieve a positive voltage gain (above the baseline),
 a doping amount of at least  0.25 is required.
 
@@ -32,8 +34,11 @@ a doping amount of at least  0.25 is required.
 Global Feature Importance (SHAP Beeswarm)
 
 Dominant Factor: Dopant amount is identified as the most critical determinant of battery voltage.
+
 The wide distribution of points indicates it has the strongest influence on the model's output.
+
 Positive impact: For dopant amount and dopant code,red dots are located on the right side, confirming that higher concentrations and specific elements boost voltage
+
 Negative impact: Conversely, for sinter temperature and JT distortion,red dots appear on the left side. This implies that excessive heating and structural distortion negatively affect performance.
 
 
