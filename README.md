@@ -6,7 +6,7 @@ The value X (0.3 to 1.0) represents the severity of structural distortion
 
 Strong Negative Correlation: High distortion (>0.6) acts as a penalty factor, significantly dropping the voltage. 
 
-2. Role of Zn (Green Points): Zn-doped samples are clustered in the top-left region, proving that Zn effectively minimizes distortion and stabilizes the structure.
+Role of Zn (Green Points): Zn-doped samples are clustered in the top-left region, proving that Zn effectively minimizes distortion and stabilizes the structure.
 
 
 
